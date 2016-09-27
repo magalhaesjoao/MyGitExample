@@ -2,4 +2,5 @@
     <string name="app_name">My Git Example</string>
     <string name="btnNext">NEXT</string>
     <string name="title_activity_second">SecondActivity</string>
+    <string name="btnClose">CLOSE</string>
 </resources>

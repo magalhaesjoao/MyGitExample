@@ -2,6 +2,7 @@ package pt.ipleiria.estg.dei.mygitexample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class SecondActivity extends AppCompatActivity {
 
@@ -12,4 +13,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
 
+    public void onClickClose(View view) {
+        finish();
+    }
 }
